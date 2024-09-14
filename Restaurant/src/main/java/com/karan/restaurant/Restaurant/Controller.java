@@ -17,7 +17,7 @@ public class Controller {
 	
 	
 	@Autowired
-	Repository repo;
+	Repository  repo;
 	
 	// get all restaurant 
 	
